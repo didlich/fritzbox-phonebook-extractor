@@ -36,3 +36,6 @@ The JAR is created under **target/scala-2.11/proguard**
 to start the jar use:
 
     java -jar target/scala-2.11/proguard/fritzbox-phonebook-extractor_2.11-1.0.jar
+
+# License
+GNU GPL v3.0
